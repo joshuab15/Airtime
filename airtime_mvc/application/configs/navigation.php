@@ -123,7 +123,7 @@ $pages = array(
             ),
             array(
                 'label'      => _('User Manual'),
-                'uri'        => "http://www.sourcefabric.org/en/airtime/manuals/",
+                'uri'        => "http://www.northplanethosting.com/airtime/manuals/",
                 'target'     => "_blank"
             ),
             array(
